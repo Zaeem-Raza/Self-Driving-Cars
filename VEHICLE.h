@@ -6,7 +6,7 @@
  *   2. number_of_steps is the number of steps taken by the vehicle   *
  *                                                                    *
  * The Public Members contain getters setters,                        *
- * constructors and destructors                                       *                             *
+ * constructors and destructors                                       *                             
  *                                                                    *
  *********************************************************************/
 class VEHICLE
