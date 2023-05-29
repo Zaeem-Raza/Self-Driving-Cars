@@ -1,4 +1,4 @@
-#This is a Self-Driving Test Program
+This is a Self-Driving Test Program
 Once, the program is started, it will start to drive the car by itself.
 The program contains following classes:
 
